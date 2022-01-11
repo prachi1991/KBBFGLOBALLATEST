@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.palette:palette-ktx:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/eaca6a69d49bdca3ddff1cdb0258f063/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/e310c0baa0aa74d40efeafb9bfd83993/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/cc6b897ca93d6d8d05592b6e17f0fc5a/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/0c588608ea112ac5a755cf97b7681b13/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/c13a95479fe55fa74c4dc828bcb936dc/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/c3eee4bb458f8b6a81630ea142c55ff3/transformed/jetified-palette-ktx-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/c3eee4bb458f8b6a81630ea142c55ff3/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/c3eee4bb458f8b6a81630ea142c55ff3/transformed/jetified-palette-ktx-1.0.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/a392c92a8aa5f10ec1a9b2905401b4b5/transformed/jetified-palette-ktx-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a392c92a8aa5f10ec1a9b2905401b4b5/transformed/jetified-palette-ktx-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a392c92a8aa5f10ec1a9b2905401b4b5/transformed/jetified-palette-ktx-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/androidx.palette/palette-ktx/1.0.0/c8341515e46c3ded4b875ce1eaf42350239de824/palette-ktx-1.0.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.palette/palette-ktx/1.0.0/c8341515e46c3ded4b875ce1eaf42350239de824/palette-ktx-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

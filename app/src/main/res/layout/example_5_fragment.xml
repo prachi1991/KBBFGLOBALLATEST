@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.applexinfotech.kbbfglobal.abmainj4e.ui.home.HomeViewModel" />
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:clickable="true"
+        android:focusable="true"
+        android:orientation="vertical">
+
+<!--        <com.google.android.material.appbar.AppBarLayout-->
+<!--            android:id="@+id/exFiveAppBarLayout"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@color/white"-->
+<!--            android:theme="@style/AppTheme.AppBarOverlay">-->
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/dp16"
+                android:orientation="vertical">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/exFivePreviousMonthImage"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_cal_arrow_back"
+                    tools:ignore="VectorDrawableCompat" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveMonthYearText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="@dimen/text_size_18"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toStartOf="@id/exFiveNextMonthImage"
+                    app:layout_constraintStart_toEndOf="@id/exFivePreviousMonthImage"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="April 2018" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/exFiveNextMonthImage"
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:srcCompat="@drawable/ic_cal_arrow_next"
+                    tools:ignore="VectorDrawableCompat" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+<!--        </com.google.android.material.appbar.AppBarLayout>-->
+
+<!--        <androidx.core.widget.NestedScrollView-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:background="@color/white"-->
+<!--            android:scrollbars="horizontal">-->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dp16"
+                android:layout_marginRight="@dimen/dp16"
+                android:layout_marginBottom="@dimen/dp16"
+                android:orientation="vertical">
+
+                <com.kizitonwose.calendarview.CalendarView
+                    android:id="@+id/exFiveCalendar"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cv_dayViewResource="@layout/calendar_day"
+                    app:cv_monthHeaderResource="@layout/example_5_calendar_header"
+                    app:cv_orientation="horizontal"
+                    app:cv_outDateStyle="none"
+                    app:cv_scrollMode="paged" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/exFiveRv"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:nestedScrollingEnabled="false"
+                    android:visibility="gone"
+                    tools:targetApi="lollipop" />
+            </LinearLayout>
+<!--        </androidx.core.widget.NestedScrollView>-->
+
+    </LinearLayout>
+</layout>

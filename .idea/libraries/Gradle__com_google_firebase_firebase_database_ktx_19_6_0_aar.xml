@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database-ktx:19.6.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/c01d9dd641235a93d2ceafc87fc828f6/transformed/jetified-firebase-database-ktx-19.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/6e1f03b91a888da730f299bc0b9f3327/transformed/jetified-firebase-database-ktx-19.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/6e1f03b91a888da730f299bc0b9f3327/transformed/jetified-firebase-database-ktx-19.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/6e1f03b91a888da730f299bc0b9f3327/transformed/jetified-firebase-database-ktx-19.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4e022edc90bd139e888e39f5c82f4f7b/transformed/jetified-firebase-database-ktx-19.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e022edc90bd139e888e39f5c82f4f7b/transformed/jetified-firebase-database-ktx-19.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4e022edc90bd139e888e39f5c82f4f7b/transformed/jetified-firebase-database-ktx-19.6.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/19.6.0/edc986fab65656bba3c599fdbd98416ed2f79fea/firebase-database-ktx-19.6.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/19.6.0/edc986fab65656bba3c599fdbd98416ed2f79fea/firebase-database-ktx-19.6.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/19.6.0/3be2a8074f32b849d1b083c2803ebcb50e90f46d/firebase-database-ktx-19.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/19.6.0/3be2a8074f32b849d1b083c2803ebcb50e90f46d/firebase-database-ktx-19.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

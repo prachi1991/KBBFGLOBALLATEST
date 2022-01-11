@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.applexinfotech.kbbfglobal.abmainj4e.ui.home.HomeViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar_calendar" />
+
+        <FrameLayout
+            android:id="@+id/frameMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/toolbar">
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scrollbars="vertical">
+
+                <androidx.appcompat.widget.LinearLayoutCompat
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <FrameLayout
+                        android:id="@+id/frameCalendar"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" />
+
+                    <com.kizitonwose.calendarview.CalendarView
+                        android:id="@+id/calendarView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        app:cv_dayViewResource="@layout/calendar_day_layout"
+                        tools:ignore="MissingClass" />
+
+                    <CalendarView
+                        android:id="@+id/simpleCalendarView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:firstDayOfWeek="2"
+                        android:focusedMonthDateColor="#ff0"
+                        android:visibility="gone"
+                        android:weekDayTextAppearance="@color/colorPrimary"
+                        android:weekSeparatorLineColor="@color/greyed" />
+
+                    <include
+                        android:id="@+id/layoutEvent"
+                        layout="@layout/layout_calender_event"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@id/frameCalendar" />
+                </androidx.appcompat.widget.LinearLayoutCompat>
+            </androidx.core.widget.NestedScrollView>
+        </FrameLayout>
+    </RelativeLayout>
+</layout>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.libraries.places:places:2.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/f527bb42f7055f87fbd811605d6bf7c1/transformed/jetified-places-2.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/f527bb42f7055f87fbd811605d6bf7c1/transformed/jetified-places-2.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/f527bb42f7055f87fbd811605d6bf7c1/transformed/jetified-places-2.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ecc9a701155591e0a6d4695a0320cb4d/transformed/jetified-places-2.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ecc9a701155591e0a6d4695a0320cb4d/transformed/jetified-places-2.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ecc9a701155591e0a6d4695a0320cb4d/transformed/jetified-places-2.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.android.libraries.places/places/2.4.0/5ed6dd1c8202b5c622548077d727cf02512ccae7/places-2.4.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.libraries.places/places/2.4.0/5ed6dd1c8202b5c622548077d727cf02512ccae7/places-2.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

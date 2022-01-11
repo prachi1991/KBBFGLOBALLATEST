@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.dhaval2404:imagepicker:1.7.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/7cfc89b7608951e1b1c51425f308e8d0/transformed/jetified-imagepicker-1.7.5/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/7cfc89b7608951e1b1c51425f308e8d0/transformed/jetified-imagepicker-1.7.5/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/7cfc89b7608951e1b1c51425f308e8d0/transformed/jetified-imagepicker-1.7.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab13fabbdf7b8507f5de7b4776de5f58/transformed/jetified-imagepicker-1.7.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab13fabbdf7b8507f5de7b4776de5f58/transformed/jetified-imagepicker-1.7.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab13fabbdf7b8507f5de7b4776de5f58/transformed/jetified-imagepicker-1.7.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.7.5/237f1eaef2c2da7298715f3f0bb1575ac578e2db/imagepicker-1.7.5-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.7.5/237f1eaef2c2da7298715f3f0bb1575ac578e2db/imagepicker-1.7.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.7.5/f659e24a898cab497001f9f82dd24c963d32a14f/imagepicker-1.7.5-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dhaval2404/imagepicker/1.7.5/f659e24a898cab497001f9f82dd24c963d32a14f/imagepicker-1.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

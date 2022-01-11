@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-wallet:18.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/e361bdbe864d9bc4f09b365c7e095235/transformed/jetified-play-services-wallet-18.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/e361bdbe864d9bc4f09b365c7e095235/transformed/jetified-play-services-wallet-18.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/e361bdbe864d9bc4f09b365c7e095235/transformed/jetified-play-services-wallet-18.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7a228cfe72f32f11597ad4d6ba5c280d/transformed/jetified-play-services-wallet-18.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a228cfe72f32f11597ad4d6ba5c280d/transformed/jetified-play-services-wallet-18.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7a228cfe72f32f11597ad4d6ba5c280d/transformed/jetified-play-services-wallet-18.1.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.android.gms/play-services-wallet/18.1.3/6aad1194851fb24d542f67160c976ddcbdb54f3d/play-services-wallet-18.1.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-wallet/18.1.3/6aad1194851fb24d542f67160c976ddcbdb54f3d/play-services-wallet-18.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

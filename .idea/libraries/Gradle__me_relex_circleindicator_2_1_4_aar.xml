@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: me.relex:circleindicator:2.1.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1292e312a348ad1bad66e2ea9c859f9f/transformed/jetified-circleindicator-2.1.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1292e312a348ad1bad66e2ea9c859f9f/transformed/jetified-circleindicator-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1292e312a348ad1bad66e2ea9c859f9f/transformed/jetified-circleindicator-2.1.4/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/800a861d1baa601436b7fa2c7f751f7d/transformed/jetified-circleindicator-2.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/800a861d1baa601436b7fa2c7f751f7d/transformed/jetified-circleindicator-2.1.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/800a861d1baa601436b7fa2c7f751f7d/transformed/jetified-circleindicator-2.1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/me.relex/circleindicator/2.1.4/620aea7d06984419ff96e4a29e7968d5d02ec9b3/circleindicator-2.1.4-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.relex/circleindicator/2.1.4/620aea7d06984419ff96e4a29e7968d5d02ec9b3/circleindicator-2.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/me.relex/circleindicator/2.1.4/8c7ebd8805bfaa6da9e1912b0c8c082262fb8359/circleindicator-2.1.4-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.relex/circleindicator/2.1.4/8c7ebd8805bfaa6da9e1912b0c8c082262fb8359/circleindicator-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

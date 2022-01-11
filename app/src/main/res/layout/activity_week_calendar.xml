@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.applexinfotech.kbbfglobal.abmainj4e.ui.home.HomeViewModel" />
+    </data>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp16"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/exFivePreviousMonthImage"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_cal_arrow_back"
+                tools:ignore="VectorDrawableCompat" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/exFiveMonthYearText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/colorPrimary"
+                android:textSize="@dimen/text_size_18"
+                android:clickable="true"
+                android:focusable="true"
+                android:text="Week 20- 16 To 22 May 2021"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toStartOf="@id/exFiveNextMonthImage"
+                app:layout_constraintStart_toEndOf="@id/exFivePreviousMonthImage"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="Week 20- 16 To 22 May 2021" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/exFiveNextMonthImage"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_cal_arrow_next"
+                tools:ignore="VectorDrawableCompat" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!--    <com.alamkanak.weekview.WeekView-->
+        <!--        android:id="@+id/weekView"-->
+        <!--        android:layout_width="match_parent"-->
+        <!--        android:layout_height="match_parent"-->
+        <!--        app:eventTextColor="@android:color/white"-->
+        <!--        app:textSize="12sp"-->
+        <!--        android:layout_below="@id/constraint"-->
+        <!--        app:hourHeight="60dp"-->
+        <!--        app:headerColumnPadding="8dp"-->
+        <!--        app:headerColumnTextColor="#8f000000"-->
+        <!--        app:headerRowPadding="12dp"-->
+        <!--        app:columnGap="8dp"-->
+        <!--        app:noOfVisibleDays="3"-->
+        <!--        app:headerRowBackgroundColor="#ffefefef"-->
+        <!--        app:dayBackgroundColor="#05000000"-->
+        <!--        app:todayBackgroundColor="#1848adff"-->
+        <!--        app:headerColumnBackground="#ffffffff"/>-->
+
+        <include
+            android:id="@+id/weekview"
+            layout="@layout/item_weekview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/constraint" />
+
+
+    </RelativeLayout>
+</layout>

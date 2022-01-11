@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-functions:19.2.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/0fd81cf11c5e4f16c267e43fbf3d345e/transformed/jetified-firebase-functions-19.2.0/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/782a41c3e731a9c0404df845bb808582/transformed/jetified-firebase-functions-19.2.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/782a41c3e731a9c0404df845bb808582/transformed/jetified-firebase-functions-19.2.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/782a41c3e731a9c0404df845bb808582/transformed/jetified-firebase-functions-19.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bf107a25df1c24fe8c30e77f907623a/transformed/jetified-firebase-functions-19.2.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2bf107a25df1c24fe8c30e77f907623a/transformed/jetified-firebase-functions-19.2.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2bf107a25df1c24fe8c30e77f907623a/transformed/jetified-firebase-functions-19.2.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.firebase/firebase-functions/19.2.0/18818e55555cfc824b3f637aa26293d2d1036742/firebase-functions-19.2.0-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-functions/19.2.0/18818e55555cfc824b3f637aa26293d2d1036742/firebase-functions-19.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.google.firebase/firebase-functions/19.2.0/52dc9b1abea5a19dc4da313104a8bc731da46a9b/firebase-functions-19.2.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-functions/19.2.0/52dc9b1abea5a19dc4da313104a8bc731da46a9b/firebase-functions-19.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

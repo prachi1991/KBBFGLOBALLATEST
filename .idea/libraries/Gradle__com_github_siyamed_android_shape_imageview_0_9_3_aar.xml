@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.siyamed:android-shape-imageview:0.9.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/5942f1e37bfbaf85b2fc9bd49030d224/transformed/jetified-android-shape-imageview-0.9.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/5942f1e37bfbaf85b2fc9bd49030d224/transformed/jetified-android-shape-imageview-0.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/5942f1e37bfbaf85b2fc9bd49030d224/transformed/jetified-android-shape-imageview-0.9.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c6a30c619f387c75f10e9df2272a29fb/transformed/jetified-android-shape-imageview-0.9.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6a30c619f387c75f10e9df2272a29fb/transformed/jetified-android-shape-imageview-0.9.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c6a30c619f387c75f10e9df2272a29fb/transformed/jetified-android-shape-imageview-0.9.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.github.siyamed/android-shape-imageview/0.9.3/c702a7ef9e31491ad683db4b6455ba6e35a82ead/android-shape-imageview-0.9.3-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.siyamed/android-shape-imageview/0.9.3/c702a7ef9e31491ad683db4b6455ba6e35a82ead/android-shape-imageview-0.9.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/com.github.siyamed/android-shape-imageview/0.9.3/3465fc83d40261a84f78f5a74d4c7938c82d39f/android-shape-imageview-0.9.3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.siyamed/android-shape-imageview/0.9.3/3465fc83d40261a84f78f5a74d4c7938c82d39f/android-shape-imageview-0.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

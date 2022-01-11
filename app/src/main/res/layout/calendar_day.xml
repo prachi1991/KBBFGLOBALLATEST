@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <FrameLayout
+        android:id="@+id/exFiveDayLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.LinearLayoutCompat
+                android:id="@+id/llView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bg_cal_header"
+                android:orientation="vertical">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveDayText"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center_horizontal"
+                    android:layout_centerHorizontal="true"
+                    android:layout_above="@id/llView"
+                    android:textStyle="bold"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/text_size_16"
+                    tools:text="24" />
+
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveDayFlightTop"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/dp4"
+                    android:text="Ramzan Id"
+                    android:textSize="6sp"
+                    android:textColor="@color/white"
+                    android:padding="2dp"
+                    android:maxLength="12"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/cal_blue_bg"
+                    android:visibility="visible" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveDayFlightBottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Akshaya Trit.."
+                    android:maxLength="12"
+                    android:textSize="6sp"
+                    android:textColor="@color/white"
+                    android:padding="2dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginTop="3dp"
+                    android:background="@drawable/cal_skyblue_bg"
+                    android:visibility="visible" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveDayOrangeBottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Akshaya Trit.."
+                    android:maxLength="12"
+                    android:textSize="6sp"
+                    android:textColor="@color/white"
+                    android:padding="2dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/cal_mango_bg"
+                    android:visibility="visible" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/exFiveDayFlight"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Akshaya Trit.."
+                    android:maxLength="12"
+                    android:layout_marginTop="3dp"
+                    android:textSize="6sp"
+                    android:textColor="@color/white"
+                    android:padding="2dp"
+                    android:layout_marginBottom="@dimen/dp4"
+                    android:layout_gravity="bottom"
+                    android:background="@drawable/cal_blue_bg"
+                    android:visibility="visible" />
+            </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </FrameLayout>
+</layout>
+
+

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.6.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1a352dd8fb753d6cccdf9cc3fa53ac15/transformed/jetified-core-ktx-1.6.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1a352dd8fb753d6cccdf9cc3fa53ac15/transformed/jetified-core-ktx-1.6.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/transforms-3/1a352dd8fb753d6cccdf9cc3fa53ac15/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b199194e7855ea7c29ef0e25b9c66d42/transformed/jetified-core-ktx-1.6.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b199194e7855ea7c29ef0e25b9c66d42/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b199194e7855ea7c29ef0e25b9c66d42/transformed/jetified-core-ktx-1.6.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/wrapper/dists/gradle-6.5-bin/caches/modules-2/files-2.1/androidx.core/core-ktx/1.6.0/37796e61aa8cca0d3d43d8fd4cfec054f9ef5d31/core-ktx-1.6.0-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.6.0/37796e61aa8cca0d3d43d8fd4cfec054f9ef5d31/core-ktx-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
